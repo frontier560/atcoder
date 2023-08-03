@@ -39,7 +39,11 @@
       "id": "arc090_b",
       "label": "D",
       "title": "People on a Line",
-      "url": "https://atcoder.jp/contests/abc087/tasks/arc090_b"
+      "url": "https://atcoder.jp/contests/abc087/tasks/arc090_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
     }
   ]
 }
